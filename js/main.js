@@ -27,8 +27,8 @@ var displayOptions = {
   defaultFgId: "f8836a4c1ca6438a89c5b39dfbd41d42",
   defaultFontSize: 15,
   itemId: null,     // will hold the item id we should update with the generated image
-  bgId: null,       // will hold the background group id
-  fgId: null,       // will hold the foreground group id
+  bgId: "f3b5fe26c54b41a5b463a1c8f02b4aaf",       // will hold the background group id
+  fgId: "f3b5fe26c54b41a5b463a1c8f02b4aaf",       // will hold the foreground group id
   text: null,       // text string
   textAlign: null,  // text alignment option: left, right, center
   textBB: null,     // text bounding box, comma-delimited string: e.g. x1,y1,x2,y2
